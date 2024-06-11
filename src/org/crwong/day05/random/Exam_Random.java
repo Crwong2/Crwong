@@ -36,5 +36,6 @@ public class Exam_Random {
 			randNum = (int)(Math.random()*11)+25;
 			System.out.println(randNum);
 		}
+		int abc = 0;
 	}
 }
